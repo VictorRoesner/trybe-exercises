@@ -1,0 +1,10 @@
+    1  cat
+    2  clear
+    3  cat >cores.txt
+    4  ls
+    5  cat cores.txt
+    6  cat >> cores.txt
+    7  ls
+    8  cat cores.txt
+    9  mkdir Aula2
+   10  ls

@@ -1,0 +1,7 @@
+leao
+tigre
+onca
+coelho
+gato
+barata
+macaco
