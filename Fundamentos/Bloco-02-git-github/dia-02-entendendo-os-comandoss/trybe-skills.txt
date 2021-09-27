@@ -3,6 +3,6 @@
 - Unix
 - Bash
 - Git
-Html
-CSS
-Soft skills
+- Html
+- CSS
+- Soft skills
