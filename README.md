@@ -1,4 +1,4 @@
- Trybe
+ #Trybe
 
 Este repositÃ³rio contÃ©m todas as atividades de aprendizagem desenvolvidas por [Victor Roesner](https://www.linkedin.com/in/victorroesner/) enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
