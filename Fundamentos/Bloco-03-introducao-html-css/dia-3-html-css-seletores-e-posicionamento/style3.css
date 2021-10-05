@@ -1,0 +1,28 @@
+div:hover {
+    border-radius: 2px;
+    border-style: solid;
+    color: violet;
+    border-width: 2px;
+    width: fit-content;
+    height: 45px;
+    
+}
+div:nth-child(odd) {
+    color: rgb(177, 221, 18);
+}
+
+div:nth-child(even) {
+    color: rgb(177, 21, 21);
+}
+
+div:nth-child(5) {
+    color: rgb(29, 79, 170);
+    font-size: larger;
+}
+
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+div:nth-child(odd) {
+    font-style: italic;
+}
