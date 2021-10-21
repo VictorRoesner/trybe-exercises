@@ -65,7 +65,23 @@
         headerText.innerText = ' Exercício 5.1 - JavaScript'
       }
       changeHeader();
-      
+
+      function upperCaseP() {
+        let para = document.getElementsByTagName('p')
+        for(let index = 0; index < para.length; index += 1) {
+        para[index].innerHTML = para[index].innerHTML.toUpperCase();
+        }
+      }
+      upperCaseP();
+
+      function showPara() {
+        let showpara = document.getElementsByTagName('p')
+        for(let index = 0; index < showpara.length; index += 1){
+        console.log(showpara[index].innerHTML);
+        }
+      }
+      showPara();
+
 
 
 
