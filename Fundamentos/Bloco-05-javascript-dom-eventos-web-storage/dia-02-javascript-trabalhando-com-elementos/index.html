@@ -1,0 +1,62 @@
+<main id="paiDoPai">
+  <section id="pai">
+    <section id="primeiroFilho"></section>
+    <section id="elementoOndeVoceEsta">
+      <section id="primeiroFilhoDoFilho"></section>
+      <section id="segundoEUltimoFilhoDoFilho"></section>
+    </section>
+    Atenção!
+    <section id="terceiroFilho"></section>
+    <section id="quartoEUltimoFilho"></section>
+  </section>
+</main>
+
+<script>
+let elementoOndeVoceEsta = document.getElementById("elementoOndeVoceEsta");
+let pai = elementoOndeVoceEsta.parentNode;
+pai.style.color = "red";
+let primeiroFilhoDoFilho = elementoOndeVoceEsta.firstElementChild;
+primeiroFilhoDoFilho.innerHTML = "SEXTOUUU!";
+let primeiroFilho = pai.firstElementChild;
+console.log(primeiroFilho);
+console.log(elementoOndeVoceEsta.previousElementSibling);
+console.log(elementoOndeVoceEsta.nextSibling);
+console.log(elementoOndeVoceEsta.nextElementSibling);
+let terceiroFilho = pai.lastElementChild.previousElementSibling;
+console.log(terceiroFilho);
+terceiroFilho.innerHTML = "alou";
+terceiroFilho.style.color = "blue";
+
+
+let elementoSection = document.createElement('section');
+elementoSection.innerText = "JABURU";
+elementoSection.id = "elementoIrmao";
+
+pai.appendChild(elementoSection);
+
+let elementoFilho = document.createElement('section');
+elementoFilho.id = 'elementoFilho';
+elementoFilho.innerText = "sou filho do elemento"
+elementoOndeVoceEsta.appendChild(elementoFilho);
+
+
+let filhoPrimeiroFilhoDoFilho = document.createElement('section');
+filhoPrimeiroFilhoDoFilho.id = 'filhoPrimeiro'
+filhoPrimeiroFilhoDoFilho.innerText = "SOU UM NOVO FILHO IHUY";
+
+primeiroFilhoDoFilho.appendChild(filhoPrimeiroFilhoDoFilho);
+
+let terceiro = filhoPrimeiroFilhoDoFilho.parentNode.parentNode.nextElementSibling;
+console.log(terceiro);
+
+
+
+
+
+
+
+
+
+
+
+</script>
