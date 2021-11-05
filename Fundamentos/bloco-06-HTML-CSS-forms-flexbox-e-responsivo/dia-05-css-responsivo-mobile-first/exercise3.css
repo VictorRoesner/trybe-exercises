@@ -87,10 +87,43 @@
   #footer {
     display: none;
   }
-}
+
 #content-container {
   display:flex;
   flex-direction: column;
   flex-wrap: nowrap;
 
+}
+}
+
+@media screen and (max-width: 640px) {
+  #aside {
+    display:none;
+  }
+
+body {
+  padding: 0;
+  display: flex;
+}
+
+#navigation ul {
+  display: flex;
+  flex-direction: column;
+  border-right: 0;
+  
+}
+
+#navigation li a {
+  border-right: 0;
+  
+}
+
+#content-container {
+  margin-top: 150px;
+}
+.fixedtop{
+  position: fixed;
+  z-index: +1;
+  width: 96%;;
+}
 }
