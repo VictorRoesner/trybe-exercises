@@ -26,13 +26,12 @@
 // console.log(newEmployees(employeeGen));
 
 // 2.
-const check = (number, numberPrize) => number === numberPrize;
+// const check = (number, numberPrize) => number === numberPrize;
 
-const sorteio = (number, callback) => {
-  let numberPrize = Math.floor(Math.random() * 6);
-  return callback(number, numberPrize) ? 'Parabéns você ganhou' : 'Tente novamente'
-}
+// const sorteio = (number, callback) => {
+//   let numberPrize = Math.floor(Math.random() * 6);
+//   return callback(number, numberPrize) ? 'Parabéns você ganhou' : 'Tente novamente'
+// }
 
-console.log(sorteio(4, check))
-
+// console.log(sorteio(4, check))
 
