@@ -50,36 +50,36 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 6: HTML & CSS avanÃ§ado
 
 - [x] 6-1: _HTML & CSS - Forms_
-- [ x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
-- [ x] 6-3: _CSS Flexbox - Part 1_
-- [ x] 6-4: _CSS Flexbox - Part 2_
-- [x ] 6-5: _CSS Responsivo - Mobile First_
-- [ x] 6-6: _[Projeto - PÃ¡gina inicial do Facebook]()_
+- [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
+- [x] 6-3: _CSS Flexbox - Part 1_
+- [x] 6-4: _CSS Flexbox - Part 2_
+- [x] 6-5: _CSS Responsivo - Mobile First_
+- [x] 6-6: _[Projeto - PÃ¡gina inicial do Facebook]()_
 
 ##### Bloco 7: JavaScript ES6 & Testes UnitÃ¡rios
 
-- [x ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [x ] 7-2: _JavaScript ES6 - Objects_
-- [ x] 7-3: _Testes unitÃ¡rios em JavaScript_
+- [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [x] 7-2: _JavaScript ES6 - Objects_
+- [x] 7-3: _Testes unitÃ¡rios em JavaScript_
 - [x] 7-4: _[Projeto - JavaScript Testes UnitÃ¡rios]()_
 
 ##### Bloco 8: JavaScript ES6
 
-- [ x] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ x] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [x ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
+- [x] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [x] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ x] 8-5: _[Projeto - Zoo functions]()_
+- [x] 8-5: _[Projeto - Zoo functions]()_
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
-- [ x] 9-1: _JavaScript AssÃ­ncrono e Callbacks_
-- [ x] 9-2: _JavaScript Promises_
-- [ x] 9-3: _[Projeto - Carrinho de Compras]()_
+- [x] 9-1: _JavaScript AssÃ­ncrono e Callbacks_
+- [x] 9-2: _JavaScript Promises_
+- [x] 9-3: _[Projeto - Carrinho de Compras]()_
 
 ##### Bloco 10: Jest
 
-- [x ] 10-1: _Primeiros passos no Jest_
+- [x] 10-1: _Primeiros passos no Jest_
 - [ ] 10-2: _Jest - Testes AssÃ­ncronos_
 - [ ] 10-3: _Jest - Simulando comportamentos_
 - [ ] 10-4: _[Projeto - Jest AssÃ­ncrono e Mocking]()_
